@@ -1,0 +1,8 @@
+.date-boxes {
+  display: flex;
+  flex-direction: row;
+}
+
+.date-field {
+  width: 10rem;
+}
