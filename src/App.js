@@ -1,5 +1,7 @@
-import React from "react";
-import ColorWorkshop from "./components/ColorWorkhop";
+import React from "react"
+import ColorWorkshop from "./components/ColorWorkshop"
+
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (

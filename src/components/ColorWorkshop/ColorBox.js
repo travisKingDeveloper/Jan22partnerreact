@@ -1,7 +1,8 @@
 import React from "react";
 
+
 function ColorBox(props) {
-  return <div>color slider</div>;
+  return <div className="color-card"></div>;
 }
 
 export default ColorBox;

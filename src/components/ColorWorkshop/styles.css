@@ -1,0 +1,10 @@
+.color-container {
+  width: 100%;
+}
+
+.color-card {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  justify-content: center;
+}
